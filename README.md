@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a Cloud Engineer with a passion for building s
 
 I've contributed to a number of projects over the years, including:
 
-- **[Halotrade](https://adamsebesta.com/project-a/):** This project involved building a serverless API on AWS Lambda and managing the infrastructure using Terraform. The project was designed to be highly scalable and fault-tolerant, and received positive feedback from users.
-- **[Aeyde](https://adamsebesta.com/project-b/):** In this project, I built a Kubernetes-based deployment pipeline using Jenkins and Helm. The pipeline was designed to be highly automated, with minimal manual intervention required.
-- **[Reading Reimagined](https://adamsebesta.com/project-c/):** For this project, I built a data pipeline using Apache NiFi to extract data from various sources and load it into a data warehouse. The pipeline was designed to be highly modular, allowing for easy customization and extension.
+- **[Halotrade](https://adamsebesta.com/projects/halotrade/):** I had the opportunity to lead the development of Halotrade, an enterprise-grade supply chain application. As the lead developer, I was personally responsible for the infrastructure planning, full-stack development, and DevOps of the application. This project was particularly challenging as it required me to apply my cloud engineering skills in a globally distributed environment, using Microsoft Azure.
+- **[Aeyde](https://adamsebesta.com/projects/aeyde):** My role involves configuring their Shopify Plus store and designing a cloud-native "Back In Stock" service that allowed customers to enroll in product-specific waitlists and be notified when items were back in stock. This project involves several technologies, including AWS, Typescript, the storefront API, data analytics tools such as Looker and Panoply, and a Shopify app.
+- **[Reading Reimagined](https://adamsebesta.com/projects/reading-reimagined):** My primary responsibilities focused on solution design, AWS management and deployment, development pipeline automation, formulating security baselines, writing product documentation, and vendor orchestration.
 
 ## Expertise
 
