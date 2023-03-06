@@ -14,7 +14,7 @@ I've contributed to a number of projects over the years, including:
 
 My expertise lies primarily in Cloud Engineering, with a particular focus on:
 
-- **Cloud Infrastructure:** I have extensive experience building and managing cloud infrastructure on a variety of platforms, including AWS, Google Cloud, and Microsoft Azure. I'm familiar with a wide range of services, including EC2, S3, RDS, Lambda, Kubernetes, and more.
+- **Cloud Infrastructure:** I have extensive experience building and managing cloud infrastructure on a variety of platforms, including AWS, and Microsoft Azure. I'm familiar with a wide range of services, including EC2, S3, RDS, Lambda, API Gateway, and more.
 - **DevOps:** I'm passionate about automation and have a strong background in DevOps tools and practices. I'm experienced with tools such as Jenkins, Ansible, Terraform, and Helm, and I'm always looking for ways to streamline and optimize development workflows.
 - **Shopify Ecommerce:** I have experience building ecommerce solutions using Shopify and leveraging cloud-based technologies to improve performance and scalability. I'm familiar with Shopify APIs and integrations, and have worked on projects involving custom app development and theme customization.
 - **Solution Design:** I have experience designing and implementing cloud-based solutions that meet the specific needs of clients. I'm familiar with a wide range of technologies and tools, and can work with clients to identify the best solutions for their unique business requirements.
